@@ -1,8 +1,11 @@
 # golang-test-example
 
-`go install`
+## run unit tests
 
 `go test`
 
-`go build`
+## run integration tests
+
+`go test --tags=integration`
+
 
